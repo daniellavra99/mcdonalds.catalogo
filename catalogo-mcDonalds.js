@@ -8,6 +8,10 @@ const products = [
     imgs: [
       "imagens/bigMac1.webp",
       "imagens/bigMac2.webp",
+      "imagens/comboteste1.webp",
+      "imagens/comboteste2.avif",
+      "imagens/comboteste3.avif",
+      "imagens/comboteste2.avif",
     ],
     desc: "O clássico Big Mac com dois hambúrgueres, molho especial, alface, queijo, picles e cebola.",
     whatsappMsg: "Olá! Gostaria de pedir um Big Mac."
